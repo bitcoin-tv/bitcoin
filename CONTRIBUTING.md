@@ -1,4 +1,4 @@
-Contributing to Satoshi Vision
+Contributing to Tupac Vision
 ============================
 
 Copyright
